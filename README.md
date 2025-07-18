@@ -2,8 +2,7 @@ Hi 👋 My name is chanonnnn
 ==========================
 
 *   🌍  I'm based in Thailand<a href="https://www.github.com/chanonnnn" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/chanonnnn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Socials
+src="https://img.shields.io/github/followers/chanonnnn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Socials
 <p align="left">
 <a href="https://www.github.com/chanonnnn" target="_blank" rel="noreferrer"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
